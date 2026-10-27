@@ -1,4 +1,4 @@
-```tsx
+
 import Image from "next/image";
 
 const nav = [
@@ -116,4 +116,3 @@ export default function Footer() {
     </footer>
   );
 }
-```
